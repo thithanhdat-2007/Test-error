@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.remote-server.git/
+# LỖI CẤU HÌNH: Quên dấu chấm ở trước chữ env -> file ẩn .env vẫn bị lọt vào Git!
+.env
